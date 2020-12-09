@@ -1,6 +1,6 @@
 # curso-docker
 
-## desenvolvido através do curso "Docker - Ferramenta essencial para Desenvolvedores" da Cod3rs, no Udemy.
+## developed through of course "Docker - Ferramenta essencial para Desenvolvedores" of Cod3rs, at Udemy.
 
 ### Conteúdo:
 <p>Visão Geral Docker;</p>
